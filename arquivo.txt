@@ -1,2 +1,9 @@
 projeto iniciando
 terceira alteraçao feita na nuvem
+
+
+-- git pull < pegar alteraçoes da nuvem
+-- git add .
+-- git commit -m ""
+
+-- git push < subir alteraçoes para a nuvem 
